@@ -61,7 +61,7 @@
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/courseOfferedByConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "angeboten von"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/facilitySiteOfEventConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Veranstaltungsort für Event"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/documentHasPartConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "hat einen Teil des Dokumentes"@de-DE .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/adviseeRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Kundin/ Kunde von"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/adviseeRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Rolle der Betreuung"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/credentialOfConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Empfehlungsschreiben von"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/authorInAuthorshipConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "ausgewählte Veröffentlichungen"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasServiceProviderRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "professionelle Dienstleistungen"@de-DE .
